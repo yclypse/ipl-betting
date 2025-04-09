@@ -1,0 +1,603 @@
+[
+  {
+    "team1": "RCB",
+    "team1_bettors": [
+      "Param",
+      "Amar",
+      "Sreedhar",
+      "Atul",
+      "Anshuman"
+    ],
+    "team2": "KKR",
+    "team2_bettors": [
+      "Utkarsh",
+      "Gurpreet",
+      "Harman",
+      "Jagjit",
+      "Karam",
+      "Nishit",
+      "Adithya",
+      "Niraj"
+    ],
+    "winner": "KKR",
+    "timestamp": "2025-04-09T16:00:58.146230"
+  },
+  {
+    "team1": "SRH",
+    "team1_bettors": [
+      "Shravan",
+      "Jagjit",
+      "Atul",
+      "Manish",
+      "Ankur",
+      "Utkarsh",
+      "Parminder",
+      "Karam",
+      "Niraj",
+      "Adithya"
+    ],
+    "team2": "RR",
+    "team2_bettors": [
+      "Harman",
+      "Anshuman",
+      "Amar",
+      "Nishit"
+    ],
+    "winner": "SRH",
+    "timestamp": "2025-04-09T16:00:58.162403"
+  },
+  {
+    "team1": "MI",
+    "team1_bettors": [
+      "Utkarsh",
+      "Nishit",
+      "Gurpreet",
+      "Ankur"
+    ],
+    "team2": "CSK",
+    "team2_bettors": [
+      "Niraj",
+      "Anshuman",
+      "Sreedhar",
+      "Param"
+    ],
+    "winner": "CSK",
+    "timestamp": "2025-04-09T16:00:58.166258"
+  },
+  {
+    "team1": "RCB",
+    "team1_bettors": [
+      "Param",
+      "Amar",
+      "Sreedhar",
+      "Atul",
+      "Anshuman"
+    ],
+    "team2": "KKR",
+    "team2_bettors": [
+      "Utkarsh",
+      "Gurpreet",
+      "Harman",
+      "Jagjit",
+      "Karam",
+      "Nishit",
+      "Adithya",
+      "Niraj"
+    ],
+    "winner": "RCB",
+    "timestamp": "2025-04-09T17:07:38.148055"
+  },
+  {
+    "team1": "SRH",
+    "team1_bettors": [
+      "Shravan",
+      "Jagjit",
+      "Atul",
+      "Manish",
+      "Ankur",
+      "Utkarsh",
+      "Parminder",
+      "Karam",
+      "Niraj",
+      "Adithya"
+    ],
+    "team2": "RR",
+    "team2_bettors": [
+      "Harman",
+      "Anshuman",
+      "Amar",
+      "Nishit"
+    ],
+    "winner": "SRH",
+    "timestamp": "2025-04-09T17:07:38.177294"
+  },
+  {
+    "team1": "CSK",
+    "team1_bettors": [
+      "Shravan",
+      "Jagjit",
+      "Gurpreet",
+      "Manish",
+      "Ankur",
+      "Param",
+      "Amar",
+      "Adithya"
+    ],
+    "team2": "MI",
+    "team2_bettors": [
+      "Sreedhar",
+      "Atul",
+      "Harman",
+      "Karam",
+      "Parminder"
+    ],
+    "winner": "CSK",
+    "timestamp": "2025-04-09T17:07:38.201074"
+  },
+  {
+    "team1": "DC",
+    "team1_bettors": [
+      "Shravan",
+      "Ankur",
+      "Karam",
+      "Adithya",
+      "Manish",
+      "Harman",
+      "Param",
+      "Niraj"
+    ],
+    "team2": "LSG",
+    "team2_bettors": [
+      "Atul",
+      "Anshuman",
+      "Sreedhar",
+      "Gurpreet",
+      "Parminder",
+      "Nishit",
+      "Utkarsh"
+    ],
+    "winner": "DC",
+    "timestamp": "2025-04-09T17:07:38.221222"
+  },
+  {
+    "team1": "GT",
+    "team1_bettors": [
+      "Gurpreet",
+      "Ankur",
+      "Sreedhar",
+      "Anshuman",
+      "Amar",
+      "Nishit",
+      "Param"
+    ],
+    "team2": "PBKS",
+    "team2_bettors": [
+      "Manish",
+      "Jagjit",
+      "Utkarsh",
+      "Shravan",
+      "Niraj",
+      "Parminder"
+    ],
+    "winner": "PBKS",
+    "timestamp": "2025-04-09T17:07:38.240587"
+  },
+  {
+    "team1": "KKR",
+    "team1_bettors": [
+      "Karam",
+      "Ankur",
+      "Gurpreet",
+      "Atul",
+      "Nishit",
+      "Jagjit",
+      "Shravan"
+    ],
+    "team2": "RR",
+    "team2_bettors": [
+      "Sreedhar",
+      "Anshuman",
+      "Amar",
+      "Adithya",
+      "Utkarsh",
+      "Harman",
+      "Niraj"
+    ],
+    "winner": "KKR",
+    "timestamp": "2025-04-09T17:07:38.260271"
+  },
+  {
+    "team1": "SRH",
+    "team1_bettors": [
+      "Atul",
+      "Manish",
+      "Ankur",
+      "Adithya",
+      "Parminder",
+      "Shravan",
+      "Nishit",
+      "Param",
+      "Niraj"
+    ],
+    "team2": "LSG",
+    "team2_bettors": [
+      "Utkarsh",
+      "Harman",
+      "Karam",
+      "Jagjit",
+      "Anshuman"
+    ],
+    "winner": "LSG",
+    "timestamp": "2025-04-09T17:07:38.278073"
+  },
+  {
+    "team1": "CSK",
+    "team1_bettors": [
+      "Sreedhar",
+      "Utkarsh",
+      "Parminder",
+      "Nishit",
+      "Manish",
+      "Karam",
+      "Param"
+    ],
+    "team2": "RCB",
+    "team2_bettors": [
+      "Amar",
+      "Harman",
+      "Jagjit",
+      "Adithya",
+      "Gurpreet",
+      "Atul"
+    ],
+    "winner": "RCB",
+    "timestamp": "2025-04-09T17:07:38.299407"
+  },
+  {
+    "team1": "GT",
+    "team1_bettors": [
+      "Karam",
+      "Param",
+      "Gurpreet",
+      "Ankur",
+      "Shravan",
+      "Anshuman",
+      "Jagjit",
+      "Parminder"
+    ],
+    "team2": "MI",
+    "team2_bettors": [
+      "Sreedhar",
+      "Manish",
+      "Harman",
+      "Amar",
+      "Niraj"
+    ],
+    "winner": "GT",
+    "timestamp": "2025-04-09T17:07:38.322317"
+  },
+  {
+    "team1": "SRH",
+    "team1_bettors": [
+      "Harman",
+      "Shravan",
+      "Ankur",
+      "Atul",
+      "Niraj",
+      "Adithya",
+      "Amar",
+      "Parminder",
+      "Nishit"
+    ],
+    "team2": "DC",
+    "team2_bettors": [
+      "Manish",
+      "Karam",
+      "Anshuman",
+      "Param"
+    ],
+    "winner": "DC",
+    "timestamp": "2025-04-09T17:07:38.342844"
+  },
+  {
+    "team1": "CSK",
+    "team1_bettors": [
+      "Shravan",
+      "Sreedhar",
+      "Gurpreet",
+      "Ankur",
+      "Atul",
+      "Manish",
+      "Adithya",
+      "Jagjit",
+      "Parminder",
+      "Nishit"
+    ],
+    "team2": "RR",
+    "team2_bettors": [
+      "Harman",
+      "Karam",
+      "Amar",
+      "Utkarsh"
+    ],
+    "winner": "RR",
+    "timestamp": "2025-04-09T17:07:38.367138"
+  },
+  {
+    "team1": "MI",
+    "team1_bettors": [
+      "Jagjit",
+      "Anshuman",
+      "Shravan",
+      "Ankur",
+      "Param",
+      "Amar",
+      "Param",
+      "Gurpreet"
+    ],
+    "team2": "KKR",
+    "team2_bettors": [
+      "Sreedhar",
+      "Adithya",
+      "Harman",
+      "Karam",
+      "Atul"
+    ],
+    "winner": "MI",
+    "timestamp": "2025-04-09T17:07:38.388883"
+  },
+  {
+    "team1": "LSG",
+    "team1_bettors": [
+      "Atul",
+      "Gurpreet",
+      "Manish",
+      "Ankur",
+      "Nishit"
+    ],
+    "team2": "PBKS",
+    "team2_bettors": [
+      "Shravan",
+      "Sreedhar",
+      "Parminder",
+      "Anshuman",
+      "Adithya",
+      "Jagjit",
+      "Niraj",
+      "Param"
+    ],
+    "winner": "PBKS",
+    "timestamp": "2025-04-09T17:07:38.409122"
+  },
+  {
+    "team1": "RCB",
+    "team1_bettors": [
+      "Gurpreet",
+      "Manish",
+      "Sreedhar",
+      "Niraj",
+      "Parminder",
+      "Param"
+    ],
+    "team2": "GT",
+    "team2_bettors": [
+      "Nishit",
+      "Karam",
+      "Anshuman",
+      "Harman",
+      "Jagjit"
+    ],
+    "winner": "GT",
+    "timestamp": "2025-04-09T17:07:38.428729"
+  },
+  {
+    "team1": "SRH",
+    "team1_bettors": [
+      "Jagjit",
+      "Atul",
+      "Shravan",
+      "Anshuman",
+      "Ankur",
+      "Niraj",
+      "Harman"
+    ],
+    "team2": "KKR",
+    "team2_bettors": [
+      "Param",
+      "Amar",
+      "Nishit",
+      "Karam"
+    ],
+    "winner": "KKR",
+    "timestamp": "2025-04-09T17:07:38.450897"
+  },
+  {
+    "team1": "MI",
+    "team1_bettors": [
+      "Atul",
+      "Shravan",
+      "Sreedhar",
+      "Ankur",
+      "Manish",
+      "Gurpreet",
+      "Adithya",
+      "Jagjit"
+    ],
+    "team2": "LSG",
+    "team2_bettors": [
+      "Karam",
+      "Anshuman",
+      "Harman",
+      "Niraj",
+      "Param",
+      "Parminder"
+    ],
+    "winner": "LSG",
+    "timestamp": "2025-04-09T17:07:38.472761"
+  },
+  {
+    "team1": "CSK",
+    "team1_bettors": [
+      "Atul",
+      "Shravan",
+      "Ankur",
+      "Manish",
+      "Utkarsh",
+      "Gurpreet",
+      "Adithya",
+      "Parminder"
+    ],
+    "team2": "DC",
+    "team2_bettors": [
+      "Karam",
+      "Harman",
+      "Amar",
+      "Param",
+      "Nishit",
+      "Sreedhar"
+    ],
+    "winner": "DC",
+    "timestamp": "2025-04-09T17:07:38.496283"
+  },
+  {
+    "team1": "PBKS",
+    "team1_bettors": [
+      "Atul",
+      "Shravan",
+      "Ankur",
+      "Sreedhar",
+      "Manish",
+      "Utkarsh",
+      "Parminder",
+      "Jagjit"
+    ],
+    "team2": "RR",
+    "team2_bettors": [
+      "Amar",
+      "Nishit",
+      "Niraj",
+      "Anshuman",
+      "Gurpreet",
+      "Adithya"
+    ],
+    "winner": "RR",
+    "timestamp": "2025-04-09T17:07:38.517118"
+  },
+  {
+    "team1": "SRH",
+    "team1_bettors": [
+      "Shravan",
+      "Ankur",
+      "Utkarsh",
+      "Karam",
+      "Anshuman",
+      "Nishit",
+      "Niraj"
+    ],
+    "team2": "GT",
+    "team2_bettors": [
+      "Amar",
+      "Harman",
+      "Param",
+      "Parminder",
+      "Manish",
+      "Jagjit"
+    ],
+    "winner": "GT",
+    "timestamp": "2025-04-09T17:07:38.536651"
+  },
+  {
+    "team1": "MI",
+    "team1_bettors": [
+      "Karam",
+      "Gurpreet",
+      "Sreedhar",
+      "Adithya",
+      "Jagjit",
+      "Parminder",
+      "Niraj",
+      "Param"
+    ],
+    "team2": "RCB",
+    "team2_bettors": [
+      "Amar",
+      "Harman",
+      "Manish",
+      "Anshuman",
+      "Atul"
+    ],
+    "winner": "RCB",
+    "timestamp": "2025-04-09T17:07:38.556776"
+  },
+  {
+    "team1": "KKR",
+    "team1_bettors": [
+      "Atul",
+      "Ankur",
+      "Utkarsh",
+      "Jagjit",
+      "Param",
+      "Gurpreet",
+      "Nishit",
+      "Niraj"
+    ],
+    "team2": "LSG",
+    "team2_bettors": [
+      "Anshuman",
+      "Adithya",
+      "Sreedhar",
+      "Harman",
+      "Karam",
+      "Shravan"
+    ],
+    "winner": "LSG",
+    "timestamp": "2025-04-09T17:07:38.574873"
+  },
+  {
+    "team1": "PBKS",
+    "team1_bettors": [
+      "Atul",
+      "Ankur",
+      "Utkarsh",
+      "Jagjit",
+      "Adithya",
+      "Sreedhar",
+      "Manish",
+      "Shravan",
+      "Parminder",
+      "Amar"
+    ],
+    "team2": "CSK",
+    "team2_bettors": [
+      "Param",
+      "Gurpreet",
+      "Nishit"
+    ],
+    "winner": "PBKS",
+    "timestamp": "2025-04-09T17:07:38.599273"
+  },
+  {
+    "team1": "GT",
+    "team1_bettors": [
+      "Harman",
+      "Karam",
+      "Ankur",
+      "Gurpreet",
+      "Nishit",
+      "Sreedhar",
+      "Manish"
+    ],
+    "team2": "RR",
+    "team2_bettors": [
+      "Anshuman",
+      "Amar",
+      "Utkarsh",
+      "Niraj",
+      "Jagjit",
+      "Parminder",
+      "Shravan"
+    ],
+    "winner": "GT",
+    "timestamp": "2025-04-09T17:07:38.619695"
+  }
+]
